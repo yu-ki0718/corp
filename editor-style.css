@@ -1,0 +1,65 @@
+.mceContentBody {
+  max-width: 670px;
+  font-size: 62.5%;
+  font-family: "メイリオ", Meiryo, Osaka, "ヒラギノ角ゴ Pro W3",
+    "Hiragino Kaku Gothic Pro", "ＭＳ Ｐゴシック", "MS PGothic", sans-serif;
+  line-height: 1.5;
+}
+.alignleft {
+  display: block;
+  float: left;
+  margin-right: 15px;
+  margin-bottom: 1em;
+}
+.aligncenter {
+  display: block;
+  margin: 0 auto;
+}
+.alignright {
+  display: block;
+  float: right;
+  margin-left: 15px;
+  margin-bottom: 1em;
+}
+p {
+  font-size: 1.2em;
+  padding-bottom: 1em;
+}
+ul {
+  list-style: none;
+  font-size: 1.2em;
+  clear: both;
+  padding-left: 0;
+  padding-top: 10px;
+  padding-bottom: 5px;
+}
+ul li {
+  margin-bottom: 5px;
+  padding-bottom: 5px;
+  border-bottom: 1px dashed #ccc;
+}
+table {
+  font-size: 1.2em;
+  width: 100%;
+  border: 1px solid #ccc;
+  border-collapse: collapse;
+  border-spacing: 0;
+  line-height: 1.5;
+}
+th {
+  width: 20%;
+  padding: 10px;
+  border: 1px solid #ccc;
+  background: #439aea;
+  color: #fff;
+  font-weight: bold;
+  text-align: left;
+  vertical-align: middle;
+  white-space: nowrap;
+}
+td {
+  width: 80%;
+  padding: 10px;
+  border: 1px solid #ccc;
+  vertical-align: middle;
+}
